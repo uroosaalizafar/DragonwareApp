@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dragonware-85e5c",
+  "private_key_id": "c58eaffcdc052303af84795c64333f59f968f7f0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC8cfouFlmXv+HG\nKcrxc/TPYcR+oCuejT8Q2flKL8yIq0Mp83asCiJCrAPUHLIu6fDwMu0s+VZKTaBt\njQ1+71hYhoKR7qCdAuSVZ3oQvybeW75cFJ362MOnYEg1MkI5iYXajQQMkwrc+mR3\nu7pqAhJGVE+rro0VNo034c5Rk30VHr1qaHPOFLM81+hrvuHLVltmzFchVDWRrqHD\naj3/FwWFKRyfDHEz84LKBJ0J2n3XkEQ47Uk7aJo5A0yba+eNjkGObvcr7JUnk3Mf\np+mceDcyEWwKTEAL3svIziGN75FtYARFgLeSzApOKnhwNwDTwQpZGxmo/2yhwLRZ\n4DEm6lsVAgMBAAECggEAIdyIND5bYH+AAhPx7eOkdpxOiuNcmyutzKkiWLCQm/FM\nSw4+wYi7ocfXk0aJxRDP9NVt1WJDXWwn+u944JmBAj0/WpoqvbPun6MdpcM3aIbL\nRLAGuDO5qoqMRxTOHhkmVoB23QySC+WpZnNy+of/QSh2vXaKzuhDxWoboQBz3jad\nbyHMOkRIl143RpH8jGJiHwuPfD8yTiYOlEetReC3xmOnUyKew0rUshCoS4/QExiM\nNnznIGuGf8tuVk7wvL4WZ4uaMI3LWGYRCGVxDjF2dgBBFk0U77qmcsbF2SLYdKyR\n69EXiZ22PveY6JzDN7IINfQJ5kG17pzUHk3+Q4tBeQKBgQD7r8tdwe0XDXXLoti4\nH74DjiBKLVaYyL83/pKb4HE7Oqu6OksPeWesYlOgBy0CRJcBTY2aACdpvOzXgIk+\napG065VQpW+f7WMbm7RjSZZfQaz4AwOHIfZjzaYr5R64a1gf1K1QbbVVLau3/Umx\nHh8Nvg0u/8LpFF/lOZb8fnjuDQKBgQC/rLp618UM0LXJcX+dC6/aeFxCFipT52kO\ny882vYkm0FjhZqGtmTrNLH6maOKWWkr5zPbbr3olfopPkWjR5IeaXdzFM11/sswA\nyjHk3L+aDMG10FuPJDsV2TpkK4Elc5fT0vADoExNQXRQgEgcry/v1aPcwLY1UZHF\nOghx2JlnKQKBgHX/13Lfps62CtIsSTsZ9rYn/k+Irh73j18rRYU7VxsTyMuI5QQe\nQVL6zoYqlxmHGt0LhSX8iH30i34Fz1KqGCIgiWLEDW+Hln2tJIegSpXibrvgfdjv\nPVtRYWUXCK4h9bEGvzMEHI4Q2X9riw81Ng31Wqz8UF+Co+sOcxFyIjRJAoGAU6eU\nX+bqJpS0sm2pz6X5IzWitmksIiB+dqm3D2IbiOgn0oBTkgutYTzJLeHa+tn/nRS6\nrNjiS5j1zpJdGDZQhKvwndS0OvaTGMkmi4dYzGhC5xI/07JxYzDCzlM6c1kG67lF\nbZ+5jYJCvJuwXWyMVHV+pesp2w11vIl+hAmPsjkCgYArOVQ5Tf6b0L6cEYmC89uF\npzEoM8YQQP2et6fCP5H55Zaph0BCvPY0Sx6fJFdGUihJFkbZKf3izfYTtkM4HTqf\nl/mCf92QGj4iAssqL24IDJZB1Egys7lkOWClTo/8QJNpPPVjBS3Z88OoTsfxxGp+\nAyhBlrxnxXPuzqGf+YfIbA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dragonware@dragonware-85e5c.iam.gserviceaccount.com",
+  "client_id": "115502732754965531187",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dragonware%40dragonware-85e5c.iam.gserviceaccount.com"
+}

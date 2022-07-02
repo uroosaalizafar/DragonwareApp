@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "848372813427",
+    "project_id": "dragonware-85e5c",
+    "storage_bucket": "dragonware-85e5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848372813427:android:39d970b993c52b44112406",
+        "android_client_info": {
+          "package_name": "com.dragonware.dragonwareapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848372813427-uuqgq48seu3ck04cau2ikladbcqjp3f5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dragonware.dragonwareapp",
+            "certificate_hash": "eea1e4d6b6323ca10af234cdae95534a9f6c9b79"
+          }
+        },
+        {
+          "client_id": "848372813427-7tk4ujbl3cissc2sd6qj4u29us7pq4b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAztIFbFZ05xTW6fjMJfD3B4qRpSiW4SgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848372813427-7tk4ujbl3cissc2sd6qj4u29us7pq4b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
